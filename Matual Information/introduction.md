@@ -30,4 +30,5 @@
   $$
   根据推到结果可知，**互信息$I（X;Y）$表示知道事实Y后，原来信息量减少了多少**
 
-![image-20210515102544635](https://i.loli.net/2021/05/31/v91r7FqypQCVWTH.png)
+![image-20210515102544635](https://user-images.githubusercontent.com/37432670/120132443-f1f1b100-c1fc-11eb-880f-93c0b2bbd843.png)
+
